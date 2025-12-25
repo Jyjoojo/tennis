@@ -1,4 +1,4 @@
-package com.dyma.tennis.rest;
+package com.dyma.tennis.web;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
